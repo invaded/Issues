@@ -3,13 +3,13 @@ Issues
 
 This is a public issue-tracking repository for bugs and confirmed features on the Hyzeria Network
 
-Have a **feature request?** Post it on our [Development Subforum](https://suggestions.vexus.gg)!
+Have a **feature request?** Post it on our [Development Subforum](https://suggestions.hyzeria.com)!
 
 ### Important:
 
 If you find a potential exploit or vulnerability, DO NOT REPORT IT HERE:
 
-1. Privately [contact Vexus Network administrators](mailto:support@orbit.games?subject=Important%20security%20vulnerability) about the issue.
+1. Privately [contact Hyzeria Network administrators](mailto:support@orbit.games?subject=Important%20security%20vulnerability) about the issue.
 2. **Do not** publicly disclose the issue under any circumstances.
 
 ### Do:
