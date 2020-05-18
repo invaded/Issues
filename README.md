@@ -9,7 +9,7 @@ Have a **feature request?** Post it on our [Development Subforum](https://sugges
 
 If you find a potential exploit or vulnerability, DO NOT REPORT IT HERE:
 
-1. Privately [contact Hyzeria Network administrators](mailto:support@orbit.games?subject=Important%20security%20vulnerability) about the issue.
+1. Privately [contact Hyzeria Network administrators](mailto:support@orbitgames.org?subject=Important%20security%20vulnerability) about the issue.
 2. **Do not** publicly disclose the issue under any circumstances.
 
 ### Do:
